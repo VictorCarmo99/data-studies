@@ -31,9 +31,9 @@ O curso **"Python 3 - Mundo 1"** é o primeiro módulo da série de cursos de Py
 
 ```
 📁 python-mundo1-curso-em-video
-├── exercicios
-│   └── exercicio001.py
-│   └── exercicio002.py
+├── PythonExercicios
+│   └── ex001.py
+│   └── ex002.py
 ├── desafios
 │   └── desafio001.py
 └── README.md
