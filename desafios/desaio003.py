@@ -6,5 +6,5 @@ prim_num = int(input('Primeiro Número: '))
 seg_num = int(input('Segundo Número: '))
 
 #Retornar o valor da Soma para o Usuário#
-print(prim_num + seg_num)
+print('A soma Vale: ', prim_num + seg_num)
       
