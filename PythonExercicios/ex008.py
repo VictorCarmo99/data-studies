@@ -7,5 +7,5 @@ cent = metros * 100
 mili = metros * 1000
 
 print(f'{metros}m convertido equivale à:\n'
-      f'Centrimetros: {cent:.0f}\n'
-      f'Milimetros: {mili:.0f}')
+      f'Centrimetros: {cent:.0f}cm\n'
+      f'Milimetros: {mili:.0f}mm')
