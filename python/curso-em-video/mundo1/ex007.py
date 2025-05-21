@@ -1,4 +1,4 @@
-# Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
+# Exercício Python 007: Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
 
 print('Olá! Vamos Calcular a Média das suas notas da escola?\n')
 
