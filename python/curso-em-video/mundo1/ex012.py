@@ -1,4 +1,5 @@
 # From now on, all of my exercises in this course will be written in english to make my portfolio more professional and better classified.
+
 # Python Exercise 12: Create an algorithm that reads the price of a product and shows its new price with a 5% discount.
 
 # Program introduction
