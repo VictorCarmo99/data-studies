@@ -1,5 +1,4 @@
-#Desafio 002#
-#Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas#
+# Exercicio Python 002: Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas#
 
 #Solicitação da váriavel para o Usuário#
 nome = input("Olá, qual é o seu nome?\nResposta: ")
