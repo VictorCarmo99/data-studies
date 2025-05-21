@@ -1,4 +1,4 @@
-# Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
+# Exercício Python 006: Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
 
 # Apresentação do algoritmo
 print('Olá! Eu sou Matemax, seu assistente pessoal de Matemática\n')
