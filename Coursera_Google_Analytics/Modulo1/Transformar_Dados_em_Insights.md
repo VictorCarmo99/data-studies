@@ -32,7 +32,7 @@ Além de um método, ser analista envolve uma mentalidade específica para ter s
 * **É Ético e Colaborativo:** Entende a enorme responsabilidade que tem sobre os dados (privacidade, consentimento) e sabe que os melhores resultados vêm do trabalho em conjunto com as partes interessadas do projeto.
 
 ### Palavras-Chave Essenciais:
-`Análise de Dados`, `Insight`, `Processo de 6 Passos`, Partes Interessadas (Stakeholders)`, `Ética de Dados`, `Tipos de Dados`, `Tipos de Análise`, `Interação`, `Visualização de Dados`.
+`Análise de Dados`, `Insight`, `Processo de 6 Passos`, `Partes Interessadas (Stakeholders)`, `Ética de Dados`, `Tipos de Dados`, `Tipos de Análise`, `Interação`, `Visualização de Dados`.
 
 ### Conexões para o Futuro (Espaço para Adições):
 * *Como as ferramentas da "caixa de ferramentas" (planilhas, SQL, Tableau) se encaixam em cada um dos 6 passos?*
